@@ -1,4 +1,4 @@
-## This casestudy was analyzed using EDA with a gloal to understand how consumer attributes and loan attributes influence the tendency of default a loan.
+## This casestudy was analyzed using EDA with a gloal to understand how consumer attributes and loan attributes influence the tendency to default a loan.
  
 # Business Understanding
 The loan providing companies find it hard to give loans to people due to their insufficient or non-existent credit history.
